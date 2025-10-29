@@ -22,8 +22,8 @@ A modern, keyboard-friendly calculator built with Python and Tkinter. Designed w
 
 ## 🖼️ Interface Preview
 
-> ![Calculator GUI - Main View](calculator_using_tkinter-01.png)  
-> ![Calculator GUI - Features Highlight](calculator_using_tkinter-02.png)
+> ![Calculator GUI - Main View](app_images/calculator_using_tkinter-01.png)  
+> ![Calculator GUI - Features Highlight](app_images/calculator_using_tkinter-02.png)
 ---
 
 ## 🛠️ How to Run
